@@ -1,2 +1,3 @@
-# Weather Dashboard
-Created a dashboard that uses the [OpenWeather API](https://openweathermap.org/api) to retrieve weather data for cities that are searched for by user. Uses `localStorage` to store any cities that have been searched for prior and allows user to call them up quickly.
+# Weather App
+
+![Screen Shot 2022-09-23 at 2 32 18 PM](https://user-images.githubusercontent.com/77098480/191911697-38bb0d36-2e3a-4855-bf9e-85a575fdb8c6.png)
